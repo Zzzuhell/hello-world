@@ -1,2 +1,3 @@
 # hello-world
-Newbie
+I'm newbie in programming but oldfart.
+
